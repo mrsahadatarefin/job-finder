@@ -16,7 +16,7 @@ const Fresher = ({fresherJob}) => {
           <p  > <span className='font-bold' > JOb Type:</span> {job}</p>
           <div className="card-actions justify-end">
             <div className="btn btn-outline btn-success"> <Link to={`/fresher/${_id}`}> details</Link> </div> 
-            <div className="btn btn-outline">Apply now!</div>
+            <div className="btn btn-outline"> <Link to={'/fresher/apply'}> Apply now!</Link></div>
           </div>
         </div>
       </div>

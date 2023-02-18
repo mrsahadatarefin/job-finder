@@ -15,7 +15,7 @@ const ExperienceDetails = () => {
     <p className=''> <span className=' font-bold '>location :</span>{location}</p>
     <p className=''> <span className=' font-bold '>description :</span>{description}</p>
     <div>
-    <button className='btn btn-wide font-bold'><Link to={`/fresher/apply/${_id}`}>Apply</Link></button>
+    <button className='btn btn-wide font-bold'><Link to={`/fresher/apply`}>Apply</Link></button>
     </div>
   </div> 
   <figure><img src={img} alt="Shoes" /></figure>

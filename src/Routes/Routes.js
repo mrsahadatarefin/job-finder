@@ -1,6 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Main from "../Layout/Main";
 import About from "../pages/About/About";
+import ApplyPage from "../pages/ApplyPage/ApplyPage";
 import ExperienceDetails from "../pages/Home/Experiences/Experience/ExperienceDetails/ExperienceDetails";
 import FreshersDetels from "../pages/Home/Freshers/FreshersDetels/FreshersDetels";
 import Home from "../pages/Home/Home";
@@ -27,6 +28,7 @@ export const router = createBrowserRouter([
  path:'/login',
  element:<Login></Login>
       },
+     
       {
  path:'/signIn',
  element:<SignUp></SignUp>
@@ -62,7 +64,14 @@ export const router = createBrowserRouter([
 
     fetch(`https://job-protals-server.vercel.app/worldwide/${params.id}`)
    
-      }
+      },
+      {
+ path:'/fresher/apply',
+ element:<ApplyPage></ApplyPage>,
+   
+   
+      },
+
 
     ]
 }
