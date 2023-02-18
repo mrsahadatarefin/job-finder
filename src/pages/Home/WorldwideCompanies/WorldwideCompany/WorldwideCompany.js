@@ -1,7 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const WorldwideCompany = ({top}) => {
-    const {name,company,img,description,job,job_Requirements,location}= top
+    const {name,company,img,description,job,job_Requirements,location,_id}= top
     return (
         <div className="card  bg-base-100 shadow-xl">
         <figure><img src={img} alt="Shoes" /></figure>
@@ -14,7 +15,7 @@ const WorldwideCompany = ({top}) => {
           <p  > <span className='font-bold'> company Name:</span> {company}</p>
           <p  > <span className='font-bold' > JOb Type:</span> {job}</p>
           <div className="card-actions justify-end">
-            <div className="btn btn-outline btn-success"> details</div> 
+            <div className="btn btn-outline btn-success"> <Link to={`/worldwide/${_id}`}>Details</Link></div> 
             <div className="btn btn-outline">Apply now!</div>
           </div>
         </div>
