@@ -1,0 +1,35 @@
+[
+    {
+        
+            "name":"java developer",
+            "company":" meta ",
+            "img":"https://images.pexels.com/photos/267469/pexels-photo-267469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "description":"Meta Platforms Inc (Meta), formerly Facebook Inc, is a provider of social networking, advertising, and business insight solutions. The company, through its virtual-reality vision, the metaverse, focuses on developing virtual environment that allows people to interact and connect with technology.",
+            "job":"Full-time ·Senior level",
+            "job_Requirements":" java, react js, node js, html,css,",
+            "location":"USA"
+
+    },
+    {
+        
+            "name":"  backend developer",
+            "company":" Google ",
+            "img":"https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "description":"Google LLC is an American multinational technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, artificial intelligence, and consumer electronics",
+            "job":"Full-time ·Senior level",
+            "job_Requirements":" java, react js, node js, html,css,",
+            "location":"USA"
+
+    },
+    {
+        
+            "name":" app developer",
+            "company":" microsoft ",
+            "img":"https://images.pexels.com/photos/51415/pexels-photo-51415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "description":"Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington, United States. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers.",
+            "job":"Full-time ·Senior level",
+            "job_Requirements":" java, react js, node js, html,css,",
+            "location":"USA"
+
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        
+            "name":"java developer",
+            "company":" Bangla Puzzle Limited. ",
+            "img":"https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "description":"WE, Bangla Puzzle Limited, an innovation-focused and promising company are a team of highly experienced people having expertise in diverse platforms and offering onsite as well as offshore Augmented & Virtual reality software, Artificial Intelligence, IoT services, any kind of Software development, and Web & mobile Application Development services. The organization already accomplished similar assignments in the same field. Bangla Puzzle Limited is a registered private company in Bangladesh. Bangla Puzzle Limited is young but experienced is wonderful. Some achievements are National Mobile Application Award From ICT Ministry (2017) Champion of a2i women innovation Camp-2018. Innovator of IT incubator (2019) Project Inauguration by Prime Minister (2020) App of the Day by Design Nominees in the USA",
+            "job":"Full-time ·Senior level",
+            "job_Requirements":" java, react js, node js, html,css,",
+            "location":"Bangladesh"
+
+    },
+    {
+        
+            "name":"  backend developer",
+            "company":"  DataSoft ",
+            "img":"https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg",
+            "description":"DataSoft has emphasized on Quality Management practices since its inception. DataSoft practices world class quality management tools to ensure consistent quality of its products and processes. All activities of DataSoft are monitored using a customized quality dashboard. DataSoft has in-house quality auditing team who constantly monitors processes and identify improvement scopes. DataSoft quality management practices start from deriving the drawing board solutions and are ensured even in after sales services, making it an end to end process. DataSoft also employ certified project management professionals to ensure quality practices in all of its ventures.",
+            "job":"Full-time ·Senior level",
+            "job_Requirements":" java, react js, node js, html,css,",
+            "location":"Bangladesh"
+
+    },
+    {
+        
+            "name":" app developer",
+            "company":" Brain Station 23 ",
+            "img":"https://futurestartup.com/wp-content/uploads/2017/03/Brain-Station-23-1.jpg",
+            "description":"It was in 2006, with little capital but a pocketful of belief our CEO, Raisul Kabir started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market with the local market added in 2010. Since then the company has shown a continuous growth and currently employs over 700+ software engineers. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA, UK, Netherlands, Denmark, Japan, Norway, Sweden, Germany, Canada, Switzerland, Turkey and the Middle East etc.",
+            "job":"Full-time ·Senior level",
+            "job_Requirements":" java, react js, node js, html,css,",
+            "location":"Bangladesh"
+
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Software developer",
+        "company":" hello company",
+        "img":"https://images.pexels.com/photos/326508/pexels-photo-326508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · mid level",
+        "job_Requirements":" java, react js, node js, html,css,",
+        "location":"Bangladesh"
+        
+    },
+    {
+        "name":"web developer",
+        "company":" hello company",
+        "img":"https://images.pexels.com/photos/4974914/pexels-photo-4974914.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · mid level",
+        "job_Requirements":" java, react js, node js, html,css,",
+        "location":"USA"
+    },
+    {
+        "name":"app developer",
+        "company":" hello company",
+        "img":"https://images.pexels.com/photos/89724/pexels-photo-89724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · mid level",
+        "job_Requirements":" java, react js, node js, html,css,",
+        "location":"USA"
+    },
+    {
+        "name":"java developer",
+        "company":" hello company",
+        "img":"https://images.pexels.com/photos/1181243/pexels-photo-1181243.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · mid level",
+        "job_Requirements":" java, react js, node js, html,css,",
+        "location":"USA"
+    },
+    {
+        "name":" mobile app developer",
+        "company":" hello company",
+        "img":"https://images.pexels.com/photos/4491443/pexels-photo-4491443.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · mid level",
+        "job_Requirements":" java, react js, node js, html,css,",
+        "location":"USA"
+    },
+    {
+        "name":" python developer",
+        "company":" hello company",
+        "img":"https://images.pexels.com/photos/4709285/pexels-photo-4709285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation",
+        "job":"Full-time · mid level",
+        "job_Requirements":" python, react js, node js, html,css,",
+        "location":"USA"
+    }
+]

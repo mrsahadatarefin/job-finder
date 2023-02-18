@@ -1,0 +1,68 @@
+[
+    {
+        "name":"Software developer",
+        "company":"soft company",
+        "img":"https://images.pexels.com/photos/1181216/pexels-photo-1181216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · Entry level",
+        "job_Requirements":"react js, node js, html,css,",
+        "location":"USA"
+
+
+    },
+    {
+        "name":"web developer",
+        "company":"soft company",
+        "img":"https://images.pexels.com/photos/41227/pexels-photo-41227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · Entry level",
+        "job_Requirements":"react js, node js, html,css,",
+        "location":"USA"
+
+
+    },
+    {
+        "name":" UI Ux ",
+        "company":"soft company",
+        "img":"https://images.pexels.com/photos/89724/pexels-photo-89724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · Entry level",
+        "job_Requirements":"react js, node js, html,css, canvas, figma",
+        "location":"USA"
+
+
+    },
+    {
+        "name":"backend developer",
+        "company":"soft company",
+        "img":"https://www.pexels.com/photo/black-and-silver-laptop-computer-on-round-brown-wooden-table-1181243/",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · Entry level",
+        "job_Requirements":"react js, node js, html,css, mongoDB,express",
+        "location":"USA"
+
+
+    },
+    {
+        "name":" Flutter Mobile Developer",
+        "company":"soft company",
+        "img":"https://images.pexels.com/photos/4491443/pexels-photo-4491443.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · Entry level",
+        "job_Requirements":"react js, node js, html,css, mongoDB,express",
+        "location":"USA"
+
+
+    },
+    {
+        "name":"app developer",
+        "company":"soft company",
+        "img":"https://images.pexels.com/photos/2565919/pexels-photo-2565919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"An award-winning hospitality management software company is looking for a Frontend Developer. The developer will work on the frontend web applications on top of APIs and be responsible for building out the products and performing integrations with third-party",
+        "job":"Full-time · Entry level",
+        "job_Requirements":"react js, node js, html,css, mongoDB,express",
+        "location":"USA"
+
+
+    }
+]
