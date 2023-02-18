@@ -11,6 +11,7 @@ import WorldwideCompanies from "../pages/Home/WorldwideCompanies/WorldwideCompan
 import WorldWideCompaniesDetails from "../pages/Home/WorldwideCompanies/WorldWideCompaniesDetails/WorldWideCompaniesDetails";
 import Login from "../pages/Login/Login";
 import SignUp from "../pages/SignUP/SignUp";
+import PrivateRoute from "./PrivateRoute/PrivateRoute";
 
 export const router = createBrowserRouter([
 {
@@ -68,10 +69,11 @@ export const router = createBrowserRouter([
       },
       {
  path:'/fresher/apply',
- element:<ApplyPage></ApplyPage>,
+ element: <PrivateRoute> <ApplyPage></ApplyPage></PrivateRoute>  ,
    
    
       },
+
       {
         path:'/contact',
         element:<Contact></Contact>
