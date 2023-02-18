@@ -13,7 +13,7 @@ const Navber = () => {
     const menuItems = <React.Fragment>
  <li><Link to='/'>Home</Link></li>
  <li><Link to='/about'> About</Link></li>
- <li><Link to='/Contacts'>Contact Us</Link></li>
+ <li><Link to='/contact'>Contact Us</Link></li>
  {
     user?.uid? <li><Link><button onClick={handleLogOut}>LogOut</button></Link></li>:
     <>
